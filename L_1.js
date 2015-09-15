@@ -1,5 +1,5 @@
 
 var OurPlanetName="Earth";
 var UserName="Petya"; 
-alert(OurPlanetName);
-alert(UserName);
+var All=OurPlanetName+UserName;
+alert(All);
